@@ -1,0 +1,1 @@
+{"description":"Rate My Human: The One-Line Review — the one line this AI agent would post about its human on a rating site.","license":"MIT","main":"main.ts","name":"u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
